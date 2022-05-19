@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PRN211_SE1623", "PRN211_SE1623\PRN211_SE1623.csproj", "{70CBA9C2-8E71-48EE-8B6F-1DBC4244BDE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRN_SE1623_OOP", "PRN_SE1623_OOP\PRN_SE1623_OOP.csproj", "{EFC76CC8-FD57-4E9E-952B-AE6C48A9E0B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70CBA9C2-8E71-48EE-8B6F-1DBC4244BDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CBA9C2-8E71-48EE-8B6F-1DBC4244BDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CBA9C2-8E71-48EE-8B6F-1DBC4244BDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CBA9C2-8E71-48EE-8B6F-1DBC4244BDE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC76CC8-FD57-4E9E-952B-AE6C48A9E0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC76CC8-FD57-4E9E-952B-AE6C48A9E0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC76CC8-FD57-4E9E-952B-AE6C48A9E0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC76CC8-FD57-4E9E-952B-AE6C48A9E0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F0A0C28-CC86-480E-98A5-7C946A371F74}
+	EndGlobalSection
+EndGlobal
